@@ -1,0 +1,1 @@
+Refereční soubory a testy viz - původní repozitář, nebo Discord FIT VUT
