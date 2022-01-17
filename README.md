@@ -1,6 +1,6 @@
 # Týmový projekt do předmětu IFJ 2021, FIT VUT
 
-### NOTE! This is copy of original repository created by [terrorgarten](https://github.com/terrorgarten)
+### NOTE! This is a copy of original repository created by [terrorgarten](https://github.com/terrorgarten)
 
 ### Zadání: [zde](https://github.com/martafonekVOLE/IFJ21/blob/main/Zadané%20soubory/ifj2021.pdf)
 
